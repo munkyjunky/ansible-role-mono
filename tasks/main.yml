@@ -1,4 +1,4 @@
 ---
-  - name: Install yarn
+  - name: Install mono
     package: name=mono-complete state=present update_cache=yes
     become: yes
